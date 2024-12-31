@@ -1,7 +1,7 @@
 # Blinkit Interactive Dashboard
 
 ## Overview
-This project is an interactive data dashboard I developed as part of my data analytics journey. Inspired by a highly informative YouTube video from Swapnjeet S, the dashboard aims to provide actionable business insights derived from sales data. The goal is to transform raw data into a dynamic, user-friendly tool that helps stakeholders make better-informed decisions.
+This project is an interactive data dashboard I developed as part of my data analytics journey. The dashboard aims to provide actionable business insights derived from sales data. The goal is to transform raw data into a dynamic, user-friendly tool that helps stakeholders make better-informed decisions.
 
 ## Key Highlights
 ### 📊 Key Insights
@@ -21,8 +21,6 @@ The dashboard includes dynamic filters, allowing users to:
 
 ## Motivation & Acknowledgments
 This dashboard represents not only my technical skills in #DataAnalytics and #DataVisualization but also a commitment to continuously improving my ability to turn business data into valuable insights.
-
-A special thanks to **Swapnjeet S** for sharing an insightful YouTube tutorial that helped guide the development of this dashboard. Your content truly empowered me to create something impactful. 🙏
 
 ## Technologies Used
 - **Data Visualization:** Power BI / Tableau (or whichever tool you used)

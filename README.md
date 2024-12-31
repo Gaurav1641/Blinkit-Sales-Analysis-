@@ -1,4 +1,4 @@
-# Blikit Interactive Dashboard
+# Blinkit Interactive Dashboard
 
 ## Overview
 This project is an interactive data dashboard I developed as part of my data analytics journey. Inspired by a highly informative YouTube video from Swapnjeet S, the dashboard aims to provide actionable business insights derived from sales data. The goal is to transform raw data into a dynamic, user-friendly tool that helps stakeholders make better-informed decisions.

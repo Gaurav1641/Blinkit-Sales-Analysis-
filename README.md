@@ -39,5 +39,3 @@ I'm looking for feedback to enhance the usability and insights of the dashboard.
 
 ## Let's Connect!
 Feel free to reach out if you'd like to connect, collaborate, or discuss anything related to #DataAnalytics, #BusinessIntelligence, or #DashboardDesign. 🚀
-
-## Hashtags
